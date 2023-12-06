@@ -80,6 +80,18 @@
   line-height: 25px;
   text-decoration: none;
 }
+.page-header__user-btn {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-decoration: none;
+  padding: 15px 40px;
+  background-color: transparent;
+  border: 1px solid #1f1e1e;
+  font-size: 16px;
+  line-height: normal;
+  font-weight: 600;
+  color: #1f1e1e;
+}
 .home {
   padding-top: 147px;
 }
